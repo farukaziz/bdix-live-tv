@@ -1,2 +1,2 @@
-# bdix-live-tv
-BDIX live TV
+# BDIX Live TV
+Enjoy live tv on WiFi connection
