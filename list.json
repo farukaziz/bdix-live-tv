@@ -1,222 +1,225 @@
-[
-  {
-    "url": "http://45.249.187.238:8081/hls/live3.m3u8",
-    "name": "Channel 9",
-    "logo": "http://45.249.187.238/images/channel9.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new8.m3u8",
-    "name": "Zee-Bangla",
-    "logo": "http://45.249.187.238/images/zee-bangla.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new19.m3u8",
-    "name": "CNN",
-    "logo": "http://45.249.187.238/images/cnn.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new20.m3u8",
-    "name": "ATN-Bangla",
-    "logo": "http://45.249.187.238/images/ATN-Bangla.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new18.m3u8",
-    "name": "BBC World",
-    "logo": "http://45.249.187.238/images/bbcworldnews.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new17.m3u8",
-    "name": "Al-Jazeera",
-    "logo": "http://45.249.187.238/images/aljazeera.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new15.m3u8",
-    "name": "Filmon TV",
-    "logo": "http://45.249.187.238/images/FILMON TV.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new11.m3u8",
-    "name": "Iqraa Television",
-    "logo": "http://45.249.187.238/images/Iqraa Television.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new10.m3u8",
-    "name": "ARY Q TV",
-    "logo": "http://45.249.187.238/images/ARY-Qtv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new9.m3u8",
-    "name": "Madani Bangla",
-    "logo": "http://45.249.187.238/images/madnibangla.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new23.m3u8",
-    "name": "DBC News",
-    "logo": "http://45.249.187.238/images/dbcnews.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new21.m3u8",
-    "name": "And Flix",
-    "logo": "http://45.249.187.238/images/andflix.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new22.m3u8",
-    "name": "Lotus Macau",
-    "logo": "http://45.249.187.238/images/Lotus-Macau.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new13.m3u8",
-    "name": "HBO",
-    "logo": "http://45.249.187.238/images/hbo.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new14.m3u8",
-    "name": "CN",
-    "logo": "http://45.249.187.238/images/cn.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new5.m3u8",
-    "name": "My TV",
-    "logo": "http://45.249.187.238/images/mytv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new6.m3u8",
-    "name": "Bangla Vision",
-    "logo": "http://45.249.187.238/images/banglavision.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new7.m3u8",
-    "name": "Sangeet Bangla",
-    "logo": "http://45.249.187.238/images/sangeet bangla.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new1.m3u8",
-    "name": "Sky Net Sports-1",
-    "logo": "http://45.249.187.238/images/SkyNetSports1.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live5.m3u8",
-    "name": "GTV",
-    "logo": "http://45.249.187.238/images/gtv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live6.m3u8",
-    "name": "Massranga TV",
-    "logo": "http://45.249.187.238/images/masranga.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live0.m3u8",
-    "name": "Disney Channel",
-    "logo": "http://45.249.187.238/images/Disney Channel.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new2.m3u8",
-    "name": "star sports-2",
-    "logo": "http://45.249.187.238/images/starsports2.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live7.m3u8",
-    "name": "Channel i",
-    "logo": "http://45.249.187.238/images/channel-i.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new3.m3u8",
-    "name": "Duronto",
-    "logo": "http://45.249.187.238/images/duronto.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live1.m3u8",
-    "name": "RTV",
-    "logo": "http://45.249.187.238/images/rtv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live4.m3u8",
-    "name": "News24",
-    "logo": "http://45.249.187.238/images/news24bd.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/live2.m3u8",
-    "name": "Bangla TV",
-    "logo": "http://45.249.187.238/images/bangla-tv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-5.m3u8",
-    "name": "Zee TV",
-    "logo": "http://45.249.187.238/images/zee-tv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-6.m3u8",
-    "name": "andTV",
-    "logo": "http://45.249.187.238/images/andtv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-3.m3u8",
-    "name": "Star Gold-2",
-    "logo": "http://45.249.187.238/images/Stargold2.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-2.m3u8",
-    "name": "And Pictures",
-    "logo": "http://45.249.187.238/images/and-Pictures.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-8.m3u8",
-    "name": "star-movies",
-    "logo": "http://45.249.187.238/images/star-movies.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/hdmi4.m3u8",
-    "name": "independent",
-    "logo": "http://45.249.187.238/images/independent.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/hdmi1.m3u8",
-    "name": "pogo",
-    "logo": "http://45.249.187.238/images/pogo.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-1.m3u8",
-    "name": "Discovery",
-    "logo": "http://45.249.187.238/images/discovery.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/hdmi3.m3u8",
-    "name": "PTV-Sports",
-    "logo": "http://45.249.187.238/images/PTV-Sports.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-4.m3u8",
-    "name": "Sony Sab",
-    "logo": "http://45.249.187.238/images/sony-sab.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/hdmi2.m3u8",
-    "name": "somoytv",
-    "logo": "http://45.249.187.238/images/somoytv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/tsl-7.m3u8",
-    "name": "Utv Action",
-    "logo": "http://45.249.187.238/images/utv-action.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new24.m3u8",
-    "name": "BTV",
-    "logo": "http://45.249.187.238/images/btv.jpg"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new12.m3u8",
-    "name": "Masti-TV",
-    "logo": "http://45.249.187.238/images/masti.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new16.m3u8",
-    "name": "Nagorik-TV",
-    "logo": "http://45.249.187.238/images/nagoriktv.png"
-  },
-  {
-    "url": "http://45.249.187.238:8081/hls/new4.m3u8",
-    "name": "Asian-TV",
-    "logo": "http://45.249.187.238/images/asiantv.png"
-  }
-]
+{
+  "success": true,
+  "data": [
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffc44d7d286136889ee5a1dcf2ef6485a3d",
+      "name": "Channel i",
+      "logo": "aff853ef0a05bf509fa7984c17e4334acf4db6eebfadc8dcbbd6d2b3fdfdf84ee261d5d4765711b6cb011c17977de7c3"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffce2fc8d6819b507ced6ac742135511fdb",
+      "name": "Disney Channel",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a6cd8c8a3ba012cb228b0123d41983ea2d45f4d4fe0f12da557b409d0a8302f84"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffcc0e29eb994aac4dc5b33317a2d88a14d",
+      "name": "Channel 9",
+      "logo": "aff853ef0a05bf509fa7984c17e4334acf4db6eebfadc8dcbbd6d2b3fdfdf84ea4a517e8d64901d4f9c0c66d7d1b84d4"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffcafc1b2c11477c6eb41508762bbd09507",
+      "name": "Massranga TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a0a15c8a258847e9829665cc7b40e085f67599899de12d08f312fbe202404546d"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffc63c3c961b536efabdda3d0923f285742",
+      "name": "GTV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334ad3906d7fc7bd2a2fcd94a5567d909c25a3ab6233b7b7dcfeae23ebd5998276d2"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffcdc1fc8a325c54611b6e1f0b13f0afe1a",
+      "name": "RTV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a2f1ef2245c4f2ee44f517bff0d267c62b2b6bd566173237f5159828d43ceff50"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffcf7ac5e029a03ea2b3831a7758c142acf",
+      "name": "Bangla TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a5ef4601764dc6f0995374007ad3773d84f2fa1ecd627f2465e6852951ecc12f8"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90da5c29d1c79bf46d6d091b8bc07bacb58d",
+      "name": "Zee TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a8c51a89365b57b8e2776a813661547949786032c742aba6b08229ce589909ce9"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90dad02e518ba3bcef5d828fcba525b2247a",
+      "name": "andTV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a9c503132a5224ec7bb5a3ac6c2319d8e16f84811aea84fd795da166190cb01dd"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90da38881d89342b4e7cd15eefa8b511710b",
+      "name": "Star Gold-2",
+      "logo": "aff853ef0a05bf509fa7984c17e4334ad4dbcc690b985c11c259947e78831cb770086f06c391e2f9e6ff35c75ed9a68a"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90da4ffa9417fc125be820f57f91b536ab6a",
+      "name": "star-movies",
+      "logo": "aff853ef0a05bf509fa7984c17e4334aede60eae822b6a8f8ec88553f3cc61ff06e28bd76cba2f24720a6d689459e59a"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90daec8df55c9e0aece2de3996e98caf3b34",
+      "name": "And Pictures",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a9c503132a5224ec7bb5a3ac6c2319d8e4741b83ff8f149f7b1746c3f746ef6e3"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334a16bd771a1c746c179a3e8b1eb1586ffc1dcb85e8527604fe7dc00f4149c6bea3",
+      "name": "News24",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a32e893a9f4ce5f56a9425543032beae153aa168b1a096a9c0fa22ccc0f451a94"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334adf8c146f3815d6c5f260ee9223898878f415b4b95b8573df6550d745d6d0c4a9",
+      "name": "independent",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a1f6ce3f53f4d0ba44615194f0a6b66a15ad78e3314d5edce7903efe75c02ec13"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334adf8c146f3815d6c5f260ee9223898878145271cf47f7ad95191fbba3c16358d6",
+      "name": "pogo",
+      "logo": "aff853ef0a05bf509fa7984c17e4334af401de24f4b362e3bb1ad2a094131eb3b8edd91bf1eb55ef6c8089cb5ff1ebd5"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90da331188c77552a9ea22ecae82659f28ef",
+      "name": "Discovery",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a037588e0137ca3ff08eac80ee49486be2c900757f2cb3773f72d75ea0ca0282b"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334adf8c146f3815d6c5f260ee92238988786d423689215db4d885911122a3e0761f",
+      "name": "PTV-Sports",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a0703e53f978295f701f1e50c2ac3eac352759fecfeb142c3acc2cc27685a8ed5"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90da5ba5208d8a8feba01cd11634a241fd82",
+      "name": "Sony Sab",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a3d0e9ec3590da3729c7ff681b48e9f7c68b9a578e23179009de6a4f253ac7afb"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334adf8c146f3815d6c5f260ee9223898878620a70ccfeab8b796db823a6c32bc8bf",
+      "name": "somoytv",
+      "logo": "aff853ef0a05bf509fa7984c17e4334af167caca916b78a5f545639c6ae9752c2a13383a606da12e8648e5d84eb1aa14"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334ab43cb2cffab34da2228e2a37274f90dad134f6479a5484872d4de6d94229c5cf",
+      "name": "Utv Action",
+      "logo": "aff853ef0a05bf509fa7984c17e4334addacec294ed9f8f3e0450f9aa58277dff9fd6fb26816b2f16504102691a773e1"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8ec407554b3ab92a005bb40702ff99015",
+      "name": "BTV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a32a4c7902240c6b8dc2873f015586b39ddcb6bb42b85acc7d93b31e3d247d357"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a87107d1766867a4bf95a753d251eb3bd7",
+      "name": "Masti-TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a0a15c8a258847e9829665cc7b40e085f935f837d5564c6d2507b14efffc0a2c2"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a83b99118ed305a8319abab429a6408308",
+      "name": "Nagorik-TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a0876f9e8dbaeca910acddec6bdc603334ffe04df9217863d3dfa9719d9367c9f"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8766f3b0884665b34c4cb5ccb29c2e929",
+      "name": "Asian-TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334abdc69095edaa5a961d5b9116293d76240c0e193c49860290b3777aff3e2a4f0d"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a866bf0c4937eceb8ce790f27a1465c291",
+      "name": "Zee-Bangla",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a8c51a89365b57b8e2776a8136615479400503302ea51b610bcac7f263dea3281"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8b838a40fa9b1d4255cb35f3ea9ee2032",
+      "name": "ATN-Bangla",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a76b3622f34868f3479b4e2dcf8054d4565a270f554d11502fe94395ae52dfa5e"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a89d988540ea937bf020482d9128504912",
+      "name": "CNN",
+      "logo": "aff853ef0a05bf509fa7984c17e4334afa34d68cbcb73f4fb763e4958c951c7b55e8ffb743ac8faa9be978848b3327a8"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8247087a5557ab33f5900a90e9250695d",
+      "name": "BBC World",
+      "logo": "aff853ef0a05bf509fa7984c17e4334ad8a51e45f5b97ddf1f5cd42a136271c6362a701556d0c31c7918707a8093fd99"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a82950bcae10c766b2360cd9171d4d4d39",
+      "name": "Al-Jazeera",
+      "logo": "aff853ef0a05bf509fa7984c17e4334ac509faf57de0d59ae822b4ac019a073e8639a8e86117f18517036ea713e2815f"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a84aace7bb4d4f62f82ce011ba6e7fe4b2",
+      "name": "Filmon TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a8d9bb32390683d8f553e880763cf5edf5a2895eada715d5c4a0a6f4e1669fb71"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8b65914873c17d9f072a871dd9baa670e",
+      "name": "Iqraa Television",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a396b8b88709d243e8292521e9dbfc5c429b39874b7f11fa7bd9495c06ad9f16c013c2767f1aa4ed81840a5be8a2634b4"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8954530dc91a9440e3397ab4180386576",
+      "name": "Madani Bangla",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a985e9c739ef82c9c35a20f63badc8aff64687525ca716c99268be8be7558ae9c"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8b23602ed5c98baa55b556f9460c44160",
+      "name": "ARY Q TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a7bfced473cd72174bb9778b0b621669bd666cd23b518d3598e1ba7966e961820"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a81d33ebe9baa61945cef91f1128267f53",
+      "name": "DBC News",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a30e9b493ac9b270dcaedf13371e91da63258d13752272c909a03dff4969af4d7"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a83c3d0c71fa428871f2673d30630f7b08",
+      "name": "Lotus Macau",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a8ea1e82b44d364aa8a6f48cf25c03afb9035ea3034d2a350c9129645e815d408"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a874d89f62025b081892ffb555700633ec",
+      "name": "And Flix",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a9c503132a5224ec7bb5a3ac6c2319d8e01b5f0363abd197d65a89655b802af42"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a81b6d92090b135a70c3f45a6d8bf7c57b",
+      "name": "HBO",
+      "logo": "aff853ef0a05bf509fa7984c17e4334abb6d7eac6178d4ca8823acdb46da8546675677d7a421b27f643183ff1e779581"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a80f0338e8de0d6c224d3926a10bf8e3d0",
+      "name": "CN",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a9e0fd31fa2d334729172e0ae8938d8e79cdaa6f76b718a816109ebf7477a53a1"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a88ae1acba30730cfd0eb233adf185f1ce",
+      "name": "My TV",
+      "logo": "aff853ef0a05bf509fa7984c17e4334ada74dec5fee132ba5c380b103f0f2cf9929d2dbf0a93b2ec19eddb7dfc1ffeb2"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a87248382340b9b409492e0fdac49c2b58",
+      "name": "Bangla Vision",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a5ef4601764dc6f0995374007ad3773d860aab319be41fe20e635a62ef2b93f0b"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a80f5b56c2269e820dd9f8e9604b754967",
+      "name": "Sangeet Bangla",
+      "logo": "aff853ef0a05bf509fa7984c17e4334aa1f82927e4bb6ea4b2edd3f274fff6eb7f88eafe81fc83ba0e291d00cda3be16"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8a8b51bdd9bf9d630269a02e40b83dd87",
+      "name": "Sky Net Sports-1",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a5cb10243a69d51869ea9f0cb782e512565f969f25de9adf1517e9fcf833f7a3c"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a8f4e9c00153815b422f9c5dcfb091abbd",
+      "name": "star sports-2",
+      "logo": "aff853ef0a05bf509fa7984c17e4334aede60eae822b6a8f8ec88553f3cc61ffe35caa7fe722e44c1621395acbcbf4ec"
+    },
+    {
+      "url": "aff853ef0a05bf509fa7984c17e4334afb2e74cd6245ef059192f2bb55c4d9a889ca2a5697f946f273f29873c16ce34e",
+      "name": "Duronto",
+      "logo": "aff853ef0a05bf509fa7984c17e4334a6fe5b775b83bf0b3e8ecb639313763e0ffd4cf9d3e171fc5da13c45f4dece6ac"
+    }
+  ]
+}
