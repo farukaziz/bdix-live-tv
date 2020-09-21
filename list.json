@@ -1,0 +1,222 @@
+[
+  {
+    "url": "http://45.249.187.238:8081/hls/live3.m3u8",
+    "name": "Channel 9",
+    "logo": "http://45.249.187.238/images/channel9.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new8.m3u8",
+    "name": "Zee-Bangla",
+    "logo": "http://45.249.187.238/images/zee-bangla.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new19.m3u8",
+    "name": "CNN",
+    "logo": "http://45.249.187.238/images/cnn.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new20.m3u8",
+    "name": "ATN-Bangla",
+    "logo": "http://45.249.187.238/images/ATN-Bangla.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new18.m3u8",
+    "name": "BBC World",
+    "logo": "http://45.249.187.238/images/bbcworldnews.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new17.m3u8",
+    "name": "Al-Jazeera",
+    "logo": "http://45.249.187.238/images/aljazeera.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new15.m3u8",
+    "name": "Filmon TV",
+    "logo": "http://45.249.187.238/images/FILMON TV.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new11.m3u8",
+    "name": "Iqraa Television",
+    "logo": "http://45.249.187.238/images/Iqraa Television.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new10.m3u8",
+    "name": "ARY Q TV",
+    "logo": "http://45.249.187.238/images/ARY-Qtv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new9.m3u8",
+    "name": "Madani Bangla",
+    "logo": "http://45.249.187.238/images/madnibangla.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new23.m3u8",
+    "name": "DBC News",
+    "logo": "http://45.249.187.238/images/dbcnews.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new21.m3u8",
+    "name": "And Flix",
+    "logo": "http://45.249.187.238/images/andflix.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new22.m3u8",
+    "name": "Lotus Macau",
+    "logo": "http://45.249.187.238/images/Lotus-Macau.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new13.m3u8",
+    "name": "HBO",
+    "logo": "http://45.249.187.238/images/hbo.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new14.m3u8",
+    "name": "CN",
+    "logo": "http://45.249.187.238/images/cn.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new5.m3u8",
+    "name": "My TV",
+    "logo": "http://45.249.187.238/images/mytv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new6.m3u8",
+    "name": "Bangla Vision",
+    "logo": "http://45.249.187.238/images/banglavision.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new7.m3u8",
+    "name": "Sangeet Bangla",
+    "logo": "http://45.249.187.238/images/sangeet bangla.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new1.m3u8",
+    "name": "Sky Net Sports-1",
+    "logo": "http://45.249.187.238/images/SkyNetSports1.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live5.m3u8",
+    "name": "GTV",
+    "logo": "http://45.249.187.238/images/gtv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live6.m3u8",
+    "name": "Massranga TV",
+    "logo": "http://45.249.187.238/images/masranga.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live0.m3u8",
+    "name": "Disney Channel",
+    "logo": "http://45.249.187.238/images/Disney Channel.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new2.m3u8",
+    "name": "star sports-2",
+    "logo": "http://45.249.187.238/images/starsports2.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live7.m3u8",
+    "name": "Channel i",
+    "logo": "http://45.249.187.238/images/channel-i.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new3.m3u8",
+    "name": "Duronto",
+    "logo": "http://45.249.187.238/images/duronto.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live1.m3u8",
+    "name": "RTV",
+    "logo": "http://45.249.187.238/images/rtv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live4.m3u8",
+    "name": "News24",
+    "logo": "http://45.249.187.238/images/news24bd.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/live2.m3u8",
+    "name": "Bangla TV",
+    "logo": "http://45.249.187.238/images/bangla-tv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-5.m3u8",
+    "name": "Zee TV",
+    "logo": "http://45.249.187.238/images/zee-tv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-6.m3u8",
+    "name": "andTV",
+    "logo": "http://45.249.187.238/images/andtv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-3.m3u8",
+    "name": "Star Gold-2",
+    "logo": "http://45.249.187.238/images/Stargold2.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-2.m3u8",
+    "name": "And Pictures",
+    "logo": "http://45.249.187.238/images/and-Pictures.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-8.m3u8",
+    "name": "star-movies",
+    "logo": "http://45.249.187.238/images/star-movies.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/hdmi4.m3u8",
+    "name": "independent",
+    "logo": "http://45.249.187.238/images/independent.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/hdmi1.m3u8",
+    "name": "pogo",
+    "logo": "http://45.249.187.238/images/pogo.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-1.m3u8",
+    "name": "Discovery",
+    "logo": "http://45.249.187.238/images/discovery.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/hdmi3.m3u8",
+    "name": "PTV-Sports",
+    "logo": "http://45.249.187.238/images/PTV-Sports.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-4.m3u8",
+    "name": "Sony Sab",
+    "logo": "http://45.249.187.238/images/sony-sab.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/hdmi2.m3u8",
+    "name": "somoytv",
+    "logo": "http://45.249.187.238/images/somoytv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/tsl-7.m3u8",
+    "name": "Utv Action",
+    "logo": "http://45.249.187.238/images/utv-action.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new24.m3u8",
+    "name": "BTV",
+    "logo": "http://45.249.187.238/images/btv.jpg"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new12.m3u8",
+    "name": "Masti-TV",
+    "logo": "http://45.249.187.238/images/masti.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new16.m3u8",
+    "name": "Nagorik-TV",
+    "logo": "http://45.249.187.238/images/nagoriktv.png"
+  },
+  {
+    "url": "http://45.249.187.238:8081/hls/new4.m3u8",
+    "name": "Asian-TV",
+    "logo": "http://45.249.187.238/images/asiantv.png"
+  }
+]
