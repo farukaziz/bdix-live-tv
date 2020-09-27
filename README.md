@@ -1,4 +1,5 @@
-# BDIX Live TV
-Enjoy live tv on WiFi connection
+<a href="https://raw.githubusercontent.com/farukaziz/bdix-live-tv/master/android-release.apk">Download Link</a>
 
-[Download](http://bit.ly/bdixlivetv)
+![Preview](preview.png)
+
+
